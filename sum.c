@@ -5,4 +5,6 @@ main()
     int b = 3;
     int c = a+b;
     printf("%d",c);
+    print("Testing git 1");
+    
 }
